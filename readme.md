@@ -21,12 +21,11 @@ The RAG Chatbot is a Retrieval-Augmented Generation (RAG) based chatbot designed
 ### Prerequisites
 - Python 3.8 or higher
 - pip (Python package installer)
-- A virtual environment tool (e.g., `venv`, `virtualenv`)
 
 ### Steps
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/rag_chatbot.git
+   git clone https://github.com/nihalanas/rag_chatbot.git
    cd rag_chatbot
 
 2. **Install the dependencies in a virtual environment:**
